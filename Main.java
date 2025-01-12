@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         BloodBankSystem bloodBankSystem = new BloodBankSystem();
         Scanner scanner = new Scanner(System.in);
-
+//update for new objects
         while (true) {
             System.out.println("===== Blood Bank Management System =====");
             System.out.println("1. View Blood Inventory");
